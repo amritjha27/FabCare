@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236662168198",
+    "project_id": "fabcare-f7b4b",
+    "storage_bucket": "fabcare-f7b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236662168198:android:fe2dfdcd9f5aea6c898f07",
+        "android_client_info": {
+          "package_name": "com.example.foodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236662168198-5sjvp390vjo02ft0tmd1hmnqcl8j44v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_ZTvGp-zRsSp4MVfrAX4fhFBZFqPsa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236662168198-5sjvp390vjo02ft0tmd1hmnqcl8j44v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
